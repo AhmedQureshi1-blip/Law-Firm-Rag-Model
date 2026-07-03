@@ -12,3 +12,7 @@ Compresses 5–7 day due diligence turnaround to same-day delivery.
 - LLM: Claude Sonnet 4.6 (Groq Llama 3.3 70B for dev testing)
 - Frontend: React + Vite
 - Output: python-docx, ReportLab
+
+- ## 🎨 UI Design
+
+Figma Design: https://www.figma.com/design/wsUxRkCYu1UdlItD2Kd0NK/Untitled?node-id=0-1&t=atkgvK9YvZsZ5daK-1

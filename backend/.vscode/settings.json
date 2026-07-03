@@ -1,0 +1,13 @@
+{
+    "chat.agent.maxRequests": 100,
+    "chat.mcp.autostart": "onlyNew",
+    "chat.mcp.gallery.enabled": true,
+    "inlineChat.defaultModel": " (customendpoint)",
+    "chat.mcp.collisionBehavior": "suffix",
+    "chat.mcp.discovery.enabled": {
+        "claude-desktop": true,
+        "windsurf": true,
+        "cursor-workspace": true,
+        "cursor-global": true
+    }
+}
